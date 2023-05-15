@@ -2,7 +2,7 @@
 Backend WebQuiz app using Spring
 
 
-## API [/api](loclahost:8889/api)
+## API [/api](http://localhost:8889/api)
 
 #### POST /register
 
